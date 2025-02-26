@@ -1,3 +1,11 @@
+# ROCm Integration Fork
+
+This fork of Ultimate Vocal Remover GUI is focused on integrating **ROCm** (Radeon Open Compute) support. 
+
+**ROCm** is AMD's open software platform for GPU computing, designed to provide a seamless, high-performance computing experience on AMD GPUs. This integration aims to expand UVR's compatibility to AMD GPU users with improved performance and accessibility.
+
+---
+
 # Ultimate Vocal Remover GUI v5.6
 <img src="https://raw.githubusercontent.com/Anjok07/ultimatevocalremovergui/master/gui_data/img/UVR_v5.6.png?raw=true" />
 
