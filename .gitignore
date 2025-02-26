@@ -1,3 +1,44 @@
 # Python virtual environment
 venv/
 
+# Python cache files
+__pycache__/
+*.py[cod]
+*.class
+
+# Model files
+models/**/*.pth
+models/**/*.pt
+models/**/*.onnx
+models/**/*.bin
+models/**/*.h5
+
+# Serialized data files
+*.pkl
+
+# Audio files (outputs)
+*.wav
+
+# Logs and output files
+*.log
+output*/
+*results*/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Local configuration
+*.local.py
+config.local.py
+
+# Editor files
+.vscode/
+.idea/
+.spyderproject
+.ropeproject
+
+# OS specific files
+.DS_Store
+Thumbs.db
