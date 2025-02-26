@@ -25,6 +25,8 @@ This application uses state-of-the-art source separation models to remove vocals
 
 ## Installation
 
+**Note: This project requires Python 3.10.**
+
 These bundles contain the UVR interface, Python, PyTorch, and other dependencies needed to run the application effectively. No prerequisites are required.
 
 ### Windows Installation
@@ -49,7 +51,7 @@ These bundles contain the UVR interface, Python, PyTorch, and other dependencies
 ### Manual Windows Installation
 
 - Download and extract the repository [here](https://github.com/Anjok07/ultimatevocalremovergui/archive/refs/heads/master.zip)
-- Download and install Python [here](https://www.python.org/ftp/python/3.9.8/python-3.9.8-amd64.exe)
+- Download and install Python 3.10 [here](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe)
    - Make sure to check "Add python.exe to PATH" during the install
 - Run the following commands from the extracted repo directory:
 
@@ -163,6 +165,8 @@ This process has been tested on a MacBook Pro 2021 (using M1) and a MacBook Air 
 <br />
 
 **These installation instructions are for Debian & Arch-based Linux systems.**
+
+**Note: Python 3.10 is required for this application.**
 
 ---
 
